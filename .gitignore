@@ -1,0 +1,43 @@
+# S.W.A.T. Git Ignore
+
+# Node Modules
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-store
+
+# Environment Variables (SECRETS)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build Artifacts
+.next/
+dist/
+build/
+out/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# OpenClaw Specific (Keep agent logic, ignore temp data)
+.agent/memory/
+.agent/working_memory/
+.agent/logs/
+opendata/
+tmp/
+*.log
+
+# Sensitive Data
+storage/
+uploads/
+coverage/
