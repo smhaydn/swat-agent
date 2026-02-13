@@ -9,16 +9,17 @@
 
 ---
 
-## 🏛️ The 6 Pillars (Hexa-Prime Architecture)
+## 🏛️ The 7 Pillars (Hept-Prime Architecture)
 
-Instead of hundreds of random skills, S.W.A.T. relies on 6 elite departments:
+Instead of hundreds of random skills, S.W.A.T. relies on 7 elite departments:
 
-1.  **🏗️ App Builder:** The Project Architect. (Next.js, Python, Monorepo)
+1.  **🏗️ App Builder:** The Project Architect. (Next.js Semih Stack, Monorepo)
 2.  **🎨 Frontend Master:** The Designer. (React 19, Tailwind v4, GSAP)
 3.  **⚙️ Backend Ninja:** The Engineer. (Supabase, Postgres, API Design)
 4.  **🛡️ Security Guard:** The Defender. (Zod, RLS, OWASP)
 5.  **⚡ Performance Engineer:** The Racer. (Web Vitals, SEO, Edge Cache)
-6.  **🪄 Prompt Enchaner:** The Translator. (Idea -> Specification)
+6.  **✨ AI Art Director:** The Artist. (ComfyUI Automation, Python)
+7.  **🪄 Prompt Enchaner:** The Translator. (Idea -> Specification)
 
 ---
 

@@ -14,7 +14,7 @@
 | **⚙️ [Backend Ninja](backend-ninja/backend-master.md)** | **The Engineer.** Handling data, APIs, and server logic efficiently. | Supabase, Python, Server Actions |
 | **🛡️ [Security Guard](security-guard/security-protocol.md)** | **The Defender.** Protecting the app from attacks and data leaks. | Zod, RLS, CSP, OWASP |
 | **⚡ [Performance Eng.](performance-engineer/web-vitals-master.md)** | **The Racer.** Ensuring the app loads instantly and ranks high on Google. | Core Web Vitals, SEO, Edge Cache |
-| **🪄 [Prompt Enchaner](prompt-enchaner/SKILL.md)** | **The Translator.** Refining raw ideas into precise engineering tasks. | Chain-of-Thought, Zero-Shot |
+| **✨ [AI Art Director](ai-art-director/comfyui-master.md)** | **The Artist.** Automating ComfyUI workflows and image generation. | ComfyUI API, Python, IPAdapter |
 
 ---
 
