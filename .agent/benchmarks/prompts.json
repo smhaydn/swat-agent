@@ -1,0 +1,152 @@
+[
+  {
+    "id": "fe-001",
+    "category": "frontend",
+    "prompt": "Create a responsive navigation bar with a hamburger menu for mobile using Tailwind CSS and React.",
+    "expected_agent": "frontend-master"
+  },
+  {
+    "id": "fe-002",
+    "category": "frontend",
+    "prompt": "Build a pricing table component with a toggle for monthly/yearly billing.",
+    "expected_agent": "frontend-master"
+  },
+  {
+    "id": "fe-003",
+    "category": "frontend",
+    "prompt": "Create a 'Contact Us' form with Zod validation for email and message length.",
+    "expected_agent": "frontend-master"
+  },
+  {
+    "id": "fe-004",
+    "category": "frontend",
+    "prompt": "Implement a dark mode toggle that persists preference in localStorage.",
+    "expected_agent": "frontend-master"
+  },
+  {
+    "id": "fe-005",
+    "category": "frontend",
+    "prompt": "Create a reusable Modal component accessible via keyboard (ESC to close).",
+    "expected_agent": "frontend-master"
+  },
+  {
+    "id": "be-001",
+    "category": "backend",
+    "prompt": "Design a Supabase schema for a Todo app with RLS policies allowing only owner access.",
+    "expected_agent": "backend-ninja"
+  },
+  {
+    "id": "be-002",
+    "category": "backend",
+    "prompt": "Create a Next.js Server Action to update a user's profile with Zod validation.",
+    "expected_agent": "backend-ninja"
+  },
+  {
+    "id": "be-003",
+    "category": "backend",
+    "prompt": "Write a SQL query to find the top 10 users by 'karma' points in the last 7 days.",
+    "expected_agent": "backend-ninja"
+  },
+  {
+    "id": "be-004",
+    "category": "backend",
+    "prompt": "Set up a Stripe webhook handler that verifies the signature.",
+    "expected_agent": "backend-ninja"
+  },
+  {
+    "id": "be-005",
+    "category": "backend",
+    "prompt": "Create an Edge Function to resize uploaded avatar images to 150x150px.",
+    "expected_agent": "backend-ninja"
+  },
+  {
+    "id": "sec-001",
+    "category": "security",
+    "prompt": "Audit the 'src/app/api/admin/users/route.ts' file for IDOR vulnerabilities.",
+    "expected_agent": "security-guard"
+  },
+  {
+    "id": "sec-002",
+    "category": "security",
+    "prompt": "Write a Zod schema for a user registration form enforcing strong password rules.",
+    "expected_agent": "security-guard"
+  },
+  {
+    "id": "sec-003",
+    "category": "security",
+    "prompt": "Check the repository for any leaked API keys or secrets in .env files.",
+    "expected_agent": "security-guard"
+  },
+  {
+    "id": "sec-004",
+    "category": "security",
+    "prompt": "Explain how to secure a Supabase database against unauthorized public access.",
+    "expected_agent": "security-guard"
+  },
+  {
+    "id": "sec-005",
+    "category": "security",
+    "prompt": "Simulate an SQL injection attack against the search endpoint to verify immunity.",
+    "expected_agent": "red-team-ops"
+  },
+  {
+    "id": "perf-001",
+    "category": "performance",
+    "prompt": "Optimize the landing page hero image to pass Core Web Vitals LCP.",
+    "expected_agent": "performance-engineer"
+  },
+  {
+    "id": "perf-002",
+    "category": "performance",
+    "prompt": "Analyze the bundle size and suggest opportunities for code splitting.",
+    "expected_agent": "performance-engineer"
+  },
+  {
+    "id": "perf-003",
+    "category": "performance",
+    "prompt": "Implement a caching strategy for the 'Get All Products' API endpoint.",
+    "expected_agent": "performance-engineer"
+  },
+  {
+    "id": "perf-004",
+    "category": "performance",
+    "prompt": "Replace Moment.js with date-fns in the project to reduce JS payload.",
+    "expected_agent": "performance-engineer"
+  },
+  {
+    "id": "perf-005",
+    "category": "performance",
+    "prompt": "Configure 'next/font' to optimize Google Fonts loading.",
+    "expected_agent": "performance-engineer"
+  },
+  {
+    "id": "spec-001",
+    "category": "specification",
+    "prompt": "Translate 'I want a Tinder for cats' into a detailed technical specification.",
+    "expected_agent": "prompt-enchaner"
+  },
+  {
+    "id": "spec-002",
+    "category": "specification",
+    "prompt": "Refine the prompt 'Build a dashboard' into a specific comprehensive task description.",
+    "expected_agent": "prompt-enchaner"
+  },
+  {
+    "id": "ai-001",
+    "category": "ai-art",
+    "prompt": "Generate a prompt for a hyper-realistic cyber-punk street scene.",
+    "expected_agent": "ai-art-director"
+  },
+  {
+    "id": "mob-001",
+    "category": "mobile",
+    "prompt": "Create a React Native screen with a flatlist of users.",
+    "expected_agent": "mobile-master"
+  },
+  {
+    "id": "dt-001",
+    "category": "desktop",
+    "prompt": "Package the current web app as an Electron application.",
+    "expected_agent": "desktop-wizard"
+  }
+]
